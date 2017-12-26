@@ -12,7 +12,7 @@ public class PizzaTestDrive {
 		pizza = chicagoStore.orderPizza("cheese");
 		System.out.println("Joel ordered a " + pizza + "\n");
 
-		pizza = nyStore.orderPizza("clam");
+		/*pizza = nyStore.orderPizza("clam");
 		System.out.println("Ethan ordered a " + pizza + "\n");
  
 		pizza = chicagoStore.orderPizza("clam");
@@ -28,6 +28,6 @@ public class PizzaTestDrive {
 		System.out.println("Ethan ordered a " + pizza + "\n");
  
 		pizza = chicagoStore.orderPizza("veggie");
-		System.out.println("Joel ordered a " + pizza + "\n");
+		System.out.println("Joel ordered a " + pizza + "\n");*/
 	}
 }
